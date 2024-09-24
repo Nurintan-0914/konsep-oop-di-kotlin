@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a06583f5-fb55-4be3-9734-3d88ea3c93d0" name="Changes" comment="Add EnkapsulasiA.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/EnkapsulasiA.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a06583f5-fb55-4be3-9734-3d88ea3c93d0" name="Changes" comment="Add InheritanceA.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/InheritanceA.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -166,7 +165,31 @@
       <option name="project" value="LOCAL" />
       <updated>1727150679985</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Add EnkapsulasiB.kt">
+      <option name="closed" value="true" />
+      <created>1727151118646</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1727151118646</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Add EnkapsulasiB.kt">
+      <option name="closed" value="true" />
+      <created>1727151143844</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1727151143844</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Add InheritanceA.kt">
+      <option name="closed" value="true" />
+      <created>1727151502867</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1727151502868</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -180,6 +203,8 @@
     <MESSAGE value="Add PersonE.kt" />
     <MESSAGE value="Add PersonF.kt" />
     <MESSAGE value="Add EnkapsulasiA.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add EnkapsulasiA.kt" />
+    <MESSAGE value="Add EnkapsulasiB.kt" />
+    <MESSAGE value="Add InheritanceA.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add InheritanceA.kt" />
   </component>
 </project>

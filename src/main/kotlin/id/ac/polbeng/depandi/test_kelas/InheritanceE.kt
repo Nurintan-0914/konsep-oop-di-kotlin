@@ -11,6 +11,7 @@ class CheckedPerson: NewPerson(){
         }
 }
 
+
 fun main(){
     val person = NewPerson()
     person.age = -5

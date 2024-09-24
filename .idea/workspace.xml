@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a06583f5-fb55-4be3-9734-3d88ea3c93d0" name="Changes" comment="Add InitOrder.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/depandi/test_kelas/PersonA.kt" afterDir="false" />
+    <list default="true" id="a06583f5-fb55-4be3-9734-3d88ea3c93d0" name="Changes" comment="Add PersonC.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/depandi/test_kelas/PersonD.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,13 +109,40 @@
       <option name="project" value="LOCAL" />
       <updated>1727147820739</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Add PersonA.kt">
+      <option name="closed" value="true" />
+      <created>1727148126007</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1727148126007</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Add PersonB.kt">
+      <option name="closed" value="true" />
+      <created>1727148483245</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1727148483245</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Add PersonC.kt">
+      <option name="closed" value="true" />
+      <created>1727148553971</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1727148553971</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add Greeter.kt" />
     <MESSAGE value="Add GreeterTest.kt" />
     <MESSAGE value="Add InitOrder.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add InitOrder.kt" />
+    <MESSAGE value="Add PersonA.kt" />
+    <MESSAGE value="Add PersonB.kt" />
+    <MESSAGE value="Add PersonC.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add PersonC.kt" />
   </component>
 </project>

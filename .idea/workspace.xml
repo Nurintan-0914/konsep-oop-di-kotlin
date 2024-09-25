@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a06583f5-fb55-4be3-9734-3d88ea3c93d0" name="Changes" comment="Add InterfaceB.kt" />
+    <list default="true" id="a06583f5-fb55-4be3-9734-3d88ea3c93d0" name="Changes" comment="Add InterfaceD.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/depandi/test_kelas/InterfaceD.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -307,12 +309,26 @@
       <option name="project" value="LOCAL" />
       <updated>1727276133829</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Add InterfaceC.kt">
+      <option name="closed" value="true" />
+      <created>1727276655024</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1727276655024</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Add InterfaceD.kt">
+      <option name="closed" value="true" />
+      <created>1727276814957</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1727276814957</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add GreeterTest.kt" />
-    <MESSAGE value="Add InitOrder.kt" />
     <MESSAGE value="Add PersonA.kt" />
     <MESSAGE value="Add PersonB.kt" />
     <MESSAGE value="Add PersonC.kt" />
@@ -336,6 +352,8 @@
     <MESSAGE value="Add AbstractClass.kt" />
     <MESSAGE value="Add InterfaceA.kt" />
     <MESSAGE value="Add InterfaceB.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add InterfaceB.kt" />
+    <MESSAGE value="Add InterfaceC.kt" />
+    <MESSAGE value="Add InterfaceD.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add InterfaceD.kt" />
   </component>
 </project>

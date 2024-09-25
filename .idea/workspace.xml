@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a06583f5-fb55-4be3-9734-3d88ea3c93d0" name="Changes" comment="Add InheritanceG.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/depandi/test_kelas/InheritanceH.kt" afterDir="false" />
-    </list>
+    <list default="true" id="a06583f5-fb55-4be3-9734-3d88ea3c93d0" name="Changes" comment="Add PolymorphismA.kt" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -245,7 +243,23 @@
       <option name="project" value="LOCAL" />
       <updated>1727271170114</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Add InheritanceH.kt">
+      <option name="closed" value="true" />
+      <created>1727271403740</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1727271403740</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Add PolymorphismA.kt">
+      <option name="closed" value="true" />
+      <created>1727271786002</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1727271786002</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -267,6 +281,8 @@
     <MESSAGE value="Add InheritanceE.kt" />
     <MESSAGE value="Add InheritanceF.kt" />
     <MESSAGE value="Add InheritanceG.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add InheritanceG.kt" />
+    <MESSAGE value="Add InheritanceH.kt" />
+    <MESSAGE value="Add PolymorphismA.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add PolymorphismA.kt" />
   </component>
 </project>

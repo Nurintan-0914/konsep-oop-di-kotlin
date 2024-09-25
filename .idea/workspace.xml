@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a06583f5-fb55-4be3-9734-3d88ea3c93d0" name="Changes" comment="Add PolymorphismB.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/depandi/test_kelas/VisibilityA.kt" afterDir="false" />
+    <list default="true" id="a06583f5-fb55-4be3-9734-3d88ea3c93d0" name="Changes" comment="Add AbstractClass.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/depandi/test_kelas/InterfaceA.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -269,7 +270,31 @@
       <option name="project" value="LOCAL" />
       <updated>1727272066465</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Add VisibilityA.kt">
+      <option name="closed" value="true" />
+      <created>1727272603944</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1727272603944</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Add AccessModifierA.kt">
+      <option name="closed" value="true" />
+      <created>1727273096128</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1727273096128</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Add AbstractClass.kt">
+      <option name="closed" value="true" />
+      <created>1727273959724</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1727273959724</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -294,6 +319,9 @@
     <MESSAGE value="Add InheritanceH.kt" />
     <MESSAGE value="Add PolymorphismA.kt" />
     <MESSAGE value="Add PolymorphismB.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add PolymorphismB.kt" />
+    <MESSAGE value="Add VisibilityA.kt" />
+    <MESSAGE value="Add AccessModifierA.kt" />
+    <MESSAGE value="Add AbstractClass.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add AbstractClass.kt" />
   </component>
 </project>

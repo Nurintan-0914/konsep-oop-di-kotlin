@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a06583f5-fb55-4be3-9734-3d88ea3c93d0" name="Changes" comment="Add PolymorphismA.kt" />
+    <list default="true" id="a06583f5-fb55-4be3-9734-3d88ea3c93d0" name="Changes" comment="Add PolymorphismB.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/depandi/test_kelas/VisibilityA.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -259,7 +261,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727271786002</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Add PolymorphismB.kt">
+      <option name="closed" value="true" />
+      <created>1727272066465</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1727272066465</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -283,6 +293,7 @@
     <MESSAGE value="Add InheritanceG.kt" />
     <MESSAGE value="Add InheritanceH.kt" />
     <MESSAGE value="Add PolymorphismA.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add PolymorphismA.kt" />
+    <MESSAGE value="Add PolymorphismB.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add PolymorphismB.kt" />
   </component>
 </project>

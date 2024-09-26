@@ -1,3 +1,5 @@
+package id.ac.polbeng.depandi.test_kelas
+
 //Parents class
 open class Computer(val name: String,
                         val brand: String){

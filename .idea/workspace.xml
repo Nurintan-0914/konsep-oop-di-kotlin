@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a06583f5-fb55-4be3-9734-3d88ea3c93d0" name="Changes" comment="Add NestedInnerClassB.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/depandi/test_kelas/DataClassA.kt" afterDir="false" />
+    <list default="true" id="a06583f5-fb55-4be3-9734-3d88ea3c93d0" name="Changes" comment="Add DataClassA.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/depandi/test_kelas/DataClassB.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -354,11 +354,18 @@
       <option name="project" value="LOCAL" />
       <updated>1727314964213</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Add DataClassA.kt">
+      <option name="closed" value="true" />
+      <created>1727315374723</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1727315374723</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add PersonD.kt" />
     <MESSAGE value="Add PersonE.kt" />
     <MESSAGE value="Add PersonF.kt" />
     <MESSAGE value="Add EnkapsulasiA.kt" />
@@ -383,6 +390,7 @@
     <MESSAGE value="Add NestedInnerClass.kt" />
     <MESSAGE value="Add NestedInnerClassA.kt" />
     <MESSAGE value="Add NestedInnerClassB.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add NestedInnerClassB.kt" />
+    <MESSAGE value="Add DataClassA.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add DataClassA.kt" />
   </component>
 </project>

@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a06583f5-fb55-4be3-9734-3d88ea3c93d0" name="Changes" comment="Add NestedInnerClassA.kt" />
+    <list default="true" id="a06583f5-fb55-4be3-9734-3d88ea3c93d0" name="Changes" comment="Add NestedInnerClassB.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/depandi/test_kelas/DataClassA.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +38,11 @@
     &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="N:\Pemrograman mobile\KonsepOOPKotlin\src\main\kotlin\id\ac\polbeng\depandi\test_kelas" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="GreeterTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.depandi.test_kelas.GreeterTestKt" />
@@ -339,11 +346,18 @@
       <option name="project" value="LOCAL" />
       <updated>1727279353941</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Add NestedInnerClassB.kt">
+      <option name="closed" value="true" />
+      <created>1727314964213</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1727314964213</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add PersonC.kt" />
     <MESSAGE value="Add PersonD.kt" />
     <MESSAGE value="Add PersonE.kt" />
     <MESSAGE value="Add PersonF.kt" />
@@ -368,6 +382,7 @@
     <MESSAGE value="Add InterfaceD.kt" />
     <MESSAGE value="Add NestedInnerClass.kt" />
     <MESSAGE value="Add NestedInnerClassA.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add NestedInnerClassA.kt" />
+    <MESSAGE value="Add NestedInnerClassB.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add NestedInnerClassB.kt" />
   </component>
 </project>
